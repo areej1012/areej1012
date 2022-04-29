@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Areej Almasoudi</h1>
 <h3 align="center">Interested in Mobile Development</h3>
-<a href=https://linkedin.com/in/https://www.linkedin.com/in/areej-almsoudi-834a8a150/" align="center" >
+<p align="center"> <a href=https://linkedin.com/in/https://www.linkedin.com/in/areej-almsoudi-834a8a150/" >
   <img align="center" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
+  </p>
 
 - 🏫I am a Junior (at computer science at umm al-qura university
 
