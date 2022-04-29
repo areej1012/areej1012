@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Areej Almasoudi</h1>
 <h3 align="center">Interested in Mobile Development</h3>
 
-- 🏫I am a [Junior](at computer science at umm al-qura university)
+- 🏫I am a Junior (at computer science at umm al-qura university
 
 - 🌱 I’m currently learning **Kotlin, Dart**
 
