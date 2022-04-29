@@ -33,6 +33,8 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=areej1012&show_icons=true&locale=en&&theme=radical" alt="areej1012" />
 <br />
+  
+  <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=areej1012&show_icons=true&locale=en&theme=radical" alt="areej1012" />
 
 
