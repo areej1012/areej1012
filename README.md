@@ -11,7 +11,7 @@
 <br />
 <br />
   
-  <img align="right" alt="GIF" width="200px" height="200px" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/400w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+  <img align="right" alt="GIF"  width="500" height="600"rc="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/400w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
 **About Me!**
 
