@@ -29,31 +29,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
   
-<code><img height="20" src="https://img.icons8.com/nolan/96/android.png"></code> Android
-<code><img height="20" src="https://img.icons8.com/nolan/96/swift.png"></code> swift
-
-
-<code><img height="20" src="https://img.icons8.com/nolan/96/kotlin.png"></code> kotlin
-  <code><img height="20" src="https://img.icons8.com/nolan/96/java.png"></code> java
-  
-<code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
-  <code><img height="20" src="https://img.icons8.com/nolan/96/sqlite.png"></code> sqlite
-  
-  <code><img height="20" src="https://img.icons8.com/nolan/96/firebase.png"></code> firebase
-<code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
-  
-
-
-
-<code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
-
-<code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
-  
-  
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=areej1012&show_icons=true&locale=en&&theme=radical" alt="areej1012" />
-
+<br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=areej1012&show_icons=true&locale=en&theme=radical" alt="areej1012" />
 
 
